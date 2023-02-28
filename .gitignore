@@ -7,3 +7,5 @@ public/
 .deploy*/
 _multiconfig.yml
 themes/
+.deploy_git/
+.github/
