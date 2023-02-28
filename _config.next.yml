@@ -67,9 +67,9 @@ darkmode_js:
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
+  small: /images/favicon-16x16.png
+  medium: /images/favicon-32x32.png
+  apple_touch_icon: /images/apple-touch-icon.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
@@ -443,7 +443,7 @@ github_banner:
 # Arial | Tahoma | Helvetica | Times New Roman | Courier New | Verdana | Georgia | Palatino | Garamond | Comic Sans MS | Trebuchet MS
 # ---------------------------------------------------------------
 
-font: # TODO 换字体
+font:
   enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).

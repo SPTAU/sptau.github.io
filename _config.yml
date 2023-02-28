@@ -199,13 +199,13 @@ neat_js:
 
 hexo_external_link:
   enable: true
-  enable_base64_encode: true
+  enable_base64_encode: false
   url_param_name: 'u'
   html_file_name: 'go.html'
   target_blank: true
   link_rel: 'external nofollow noopener noreferrer'
   domain: 'SPTAU.github.io' # 如果开启了防盗链
-  safety_chain: true
+  safety_chain: false
 
 # 新增文章字数统计
 symbols_count_time:
