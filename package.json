@@ -13,16 +13,34 @@
   },
   "dependencies": {
     "hexo": "^6.3.0",
+    "hexo-abbrlink": "^2.2.1",
     "hexo-cli": "^4.3.0",
     "hexo-deployer-git": "^4.0.0",
+    "hexo-external-link": "^1.0.9",
+    "hexo-filter-github-emojis": "^3.0.5",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
+    "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^3.0.0",
+    "hexo-generator-searchdb": "^1.4.1",
+    "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
+    "hexo-neat": "^1.0.9",
+    "hexo-next-darkmode": "^0.1.10",
+    "hexo-related-popular-posts": "^5.0.1",
+    "hexo-renderer-dartsass": "^0.1.2",
     "hexo-renderer-ejs": "^2.0.0",
-    "hexo-renderer-marked": "^6.0.0",
+    "hexo-renderer-markdown-it": "^7.0.0",
+    "hexo-renderer-pug": "^3.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^0.0.3"
+    "hexo-theme-landscape": "^0.0.3",
+    "hexo-theme-next": "^8.14.2",
+    "hexo-wordcount": "^6.0.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.2.3",
+    "images": "^3.2.4",
+    "node-sass": "^8.0.0"
   }
 }
