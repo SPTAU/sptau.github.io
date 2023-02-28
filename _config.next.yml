@@ -121,7 +121,6 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  # TODO 设置公益404
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -580,7 +579,7 @@ math:
   every_page: false
 
   mathjax:
-    enable: false
+    enable: true
     # Available values: none | ams | all
     tags: none
 
