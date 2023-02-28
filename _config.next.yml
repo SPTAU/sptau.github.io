@@ -23,7 +23,7 @@ custom_file_path:
   #header: source/_data/header.njk
   #sidebar: source/_data/sidebar.njk
   #postMeta: source/_data/post-meta.njk
-  #postBodyEnd: source/_data/post-body-end.njk
+  postBodyEnd: source/_data/post-body-end.njk
   #footer: source/_data/footer.njk
   #bodyEnd: source/_data/body-end.njk
   #variable: source/_data/variables.styl
@@ -67,7 +67,6 @@ darkmode_js:
 # ---------------------------------------------------------------
 
 favicon:
-  # TODO 制作网站图标
   small: /images/favicon-16x16-next.png
   medium: /images/favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
@@ -174,7 +173,7 @@ site_state: true
 social:
   GitHub: https://github.com/SPTAU || fab fa-github
   E-Mail: mailto:sptau@qq.com || fa fa-envelope
-  # TODO BILIBILI WeChat
+  Bilibili: https://space.bilibili.com/1601578 || fa-brands fa-bilibili
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -476,12 +475,12 @@ font: # TODO 换字体
   # Font settings for posts (.post-body).
   posts:
     external: true
-    family:
+    family: Noto Sans
 
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family: "Microsoft YaHei"
+    family: JetBrains Mono
 
 
 # ---------------------------------------------------------------
