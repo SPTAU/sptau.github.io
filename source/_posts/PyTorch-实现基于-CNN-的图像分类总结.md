@@ -7,6 +7,7 @@ categories:
 tags:
   - Python
   - PyTorch
+  - CNN
 description: 本次实验采用 MNIST 作为数据集，搭建 CNN 实现手写数字识别
 abbrlink: 605ef827
 date: 2022-09-12 19:52:36

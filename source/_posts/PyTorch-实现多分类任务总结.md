@@ -7,6 +7,7 @@ categories:
 tags:
   - Python
   - PyTorch
+  - CNN
 description: 本次试验以 Kaggle 竞赛中的 Otto Group Product Classification Challenge 作为数据集
 abbrlink: 7efb9c78
 date: 2022-09-12 19:57:15

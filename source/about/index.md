@@ -7,7 +7,7 @@ comments: false
 
 **关于我**
 
-Z 世代，一个魂，科技、历史、哲学、 ACG 爱好者，学习点云分割中
+Z 世代，GDUTer，死肥宅，科技、历史、哲学、ACG 爱好者，Python、C++、Deep Learning、Point Cloud 学习中，方向为无监督点云补全
 
 **关于本站**
 

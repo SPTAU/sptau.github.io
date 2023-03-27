@@ -7,6 +7,7 @@ categories:
 tags:
   - Python
   - PyTorch
+  - CNN
 description: 针对上一次 Titanic 数据二分类预测实验的拓展和延伸
 abbrlink: 49b59d4e
 date: 2022-09-12 19:58:44

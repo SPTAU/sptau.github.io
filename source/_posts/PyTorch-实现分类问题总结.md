@@ -6,6 +6,7 @@ categories:
     - Python
 tags:
   - Python
+  - CNN
   - PyTorch
 description: 使用 Titanic Dataset 作为数据集，利用 PyTorch 实现乘客是否生还的二分类预测
 abbrlink: 4fd12987

@@ -7,6 +7,7 @@ categories:
 tags:
   - Python
   - PyTorch
+  - CNN
 description: >-
   本次实验将以 ImageNet Classification with Deep Convolutional Neural Networks
   作为主要参考来源，使用 PyTorch 搭建 AlexNet 模型实现对 CIFAR10 数据集的训练和测试

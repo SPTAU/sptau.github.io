@@ -7,6 +7,7 @@ categories:
 tags:
   - PointNet++
   - 点云
+  - CNN
 description: 'PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space'
 abbrlink: 3e81cdbb
 date: 2022-08-24 09:46:55
