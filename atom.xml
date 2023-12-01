@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>巽离阁</title>
+  
+  <subtitle>非生来富贵 是天道酬勤</subtitle>
+  <link href="http://sptau.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://sptau.github.io/"/>
+  <updated>2023-11-24T14:50:07.159Z</updated>
+  <id>http://sptau.github.io/</id>
+  
+  <author>
+    <name>SPTAU</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CNN 参数更新</title>
+    <link href="http://sptau.github.io/posts/98f1e749.html"/>
+    <id>http://sptau.github.io/posts/98f1e749.html</id>
+    <published>2023-03-27T08:30:05.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">从 LeNet-5 回顾 CNN 的参数更新过程</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>点云补全论文阅读总结</title>
+    <link href="http://sptau.github.io/posts/781c276d.html"/>
+    <id>http://sptau.github.io/posts/781c276d.html</id>
+    <published>2023-03-06T14:35:16.000Z</published>
+    <updated>2023-11-24T14:50:07.163Z</updated>
+    
+    
+    <summary type="html">阅读 2017-2023 年的 ICCV 、 CVPR 、 ECCV 等会议论文集中以补全 (Completion) 为关键词的论文</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="论文" scheme="http://sptau.github.io/tags/%E8%AE%BA%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ICCV 2017 扫读总结</title>
+    <link href="http://sptau.github.io/posts/c254b0.html"/>
+    <id>http://sptau.github.io/posts/c254b0.html</id>
+    <published>2023-03-06T14:24:59.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">扫读 ICCV 2017 论文集中感兴趣的论文，将根据 略读 - 细读 - 精读 的方式快速过一遍</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="论文" scheme="http://sptau.github.io/tags/%E8%AE%BA%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于机器学习的相邻时序植物点云配准总结</title>
+    <link href="http://sptau.github.io/posts/5f7835f6.html"/>
+    <id>http://sptau.github.io/posts/5f7835f6.html</id>
+    <published>2022-10-07T12:04:08.000Z</published>
+    <updated>2023-11-24T14:50:07.163Z</updated>
+    
+    
+    <summary type="html">该项目主要是利用相机固定时间间隔拍摄环绕植物的图像，利用软件重建为点云后，将相邻时序的植物点云进行配准，实现叶片的配对</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="点云" scheme="http://sptau.github.io/tags/%E7%82%B9%E4%BA%91/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 搭建 DenseNet 模型对 CIFAR10 数据集分类总结</title>
+    <link href="http://sptau.github.io/posts/25308b42.html"/>
+    <id>http://sptau.github.io/posts/25308b42.html</id>
+    <published>2022-10-07T11:55:00.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">本次实验以 [Densely Connected Convolutional Networks] 作为主要参考来源，使用 PyTorch 搭建 DenseNet 模型实现对 CIFAR10 数据集的训练和测试</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 搭建 ResNet 模型对 CIFAR10 数据集分类总结</title>
+    <link href="http://sptau.github.io/posts/cfb33f60.html"/>
+    <id>http://sptau.github.io/posts/cfb33f60.html</id>
+    <published>2022-09-18T13:28:12.000Z</published>
+    <updated>2023-11-24T14:50:07.163Z</updated>
+    
+    
+    <summary type="html">本次试验将以 [Deep Residual Learning for Image Recognition] 作为主要参考来源，使用 PyTorch 搭建 ResNet 模型实现对 CIFAR10 数据集的训练和测试</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 搭建 AlexNet 模型对 CIFAR10 数据集分类总结</title>
+    <link href="http://sptau.github.io/posts/3cbaf5b4.html"/>
+    <id>http://sptau.github.io/posts/3cbaf5b4.html</id>
+    <published>2022-09-14T07:52:30.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">本次实验将以 ImageNet Classification with Deep Convolutional Neural Networks 作为主要参考来源，使用 PyTorch 搭建 AlexNet 模型实现对 CIFAR10 数据集的训练和测试</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 实现分类问题总结-续</title>
+    <link href="http://sptau.github.io/posts/49b59d4e.html"/>
+    <id>http://sptau.github.io/posts/49b59d4e.html</id>
+    <published>2022-09-12T11:58:44.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">针对上一次 Titanic 数据二分类预测实验的拓展和延伸</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Python/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 实现多分类任务总结</title>
+    <link href="http://sptau.github.io/posts/7efb9c78.html"/>
+    <id>http://sptau.github.io/posts/7efb9c78.html</id>
+    <published>2022-09-12T11:57:15.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">本次试验以 Kaggle 竞赛中的 Otto Group Product Classification Challenge 作为数据集</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Python/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 实现基于 CNN 的图像分类总结</title>
+    <link href="http://sptau.github.io/posts/605ef827.html"/>
+    <id>http://sptau.github.io/posts/605ef827.html</id>
+    <published>2022-09-12T11:52:36.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">本次实验采用 MNIST 作为数据集，搭建 CNN 实现手写数字识别</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Python/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PyTorch 实现分类问题总结</title>
+    <link href="http://sptau.github.io/posts/4fd12987.html"/>
+    <id>http://sptau.github.io/posts/4fd12987.html</id>
+    <published>2022-08-28T03:37:14.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">使用 Titanic Dataset 作为数据集，利用 PyTorch 实现乘客是否生还的二分类预测</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Python/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="Python" scheme="http://sptau.github.io/tags/Python/"/>
+    
+    <category term="PyTorch" scheme="http://sptau.github.io/tags/PyTorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PointNet++ 论文总结</title>
+    <link href="http://sptau.github.io/posts/3e81cdbb.html"/>
+    <id>http://sptau.github.io/posts/3e81cdbb.html</id>
+    <published>2022-08-24T01:46:55.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="CNN" scheme="http://sptau.github.io/tags/CNN/"/>
+    
+    <category term="PointNet++" scheme="http://sptau.github.io/tags/PointNet/"/>
+    
+    <category term="点云" scheme="http://sptau.github.io/tags/%E7%82%B9%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WSL 深度学习总结</title>
+    <link href="http://sptau.github.io/posts/e5bb69fc.html"/>
+    <id>http://sptau.github.io/posts/e5bb69fc.html</id>
+    <published>2022-08-24T01:43:45.000Z</published>
+    <updated>2023-11-24T14:50:07.163Z</updated>
+    
+    
+    <summary type="html">在 WSL 下复现 PointNet 代码</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Linux" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Linux/"/>
+    
+    
+    <category term="点云" scheme="http://sptau.github.io/tags/%E7%82%B9%E4%BA%91/"/>
+    
+    <category term="PointNet" scheme="http://sptau.github.io/tags/PointNet/"/>
+    
+    <category term="WSL" scheme="http://sptau.github.io/tags/WSL/"/>
+    
+    <category term="Ubuntu" scheme="http://sptau.github.io/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WSL 安装总结</title>
+    <link href="http://sptau.github.io/posts/f1f0ebac.html"/>
+    <id>http://sptau.github.io/posts/f1f0ebac.html</id>
+    <published>2022-08-24T01:38:36.000Z</published>
+    <updated>2023-11-24T14:50:07.163Z</updated>
+    
+    
+    <summary type="html">配置 WSL 在 Ubuntu 上进行训练</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Linux" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/Linux/"/>
+    
+    
+    <category term="WSL" scheme="http://sptau.github.io/tags/WSL/"/>
+    
+    <category term="Ubuntu" scheme="http://sptau.github.io/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PointNet 论文总结</title>
+    <link href="http://sptau.github.io/posts/2ed13e41.html"/>
+    <id>http://sptau.github.io/posts/2ed13e41.html</id>
+    <published>2022-08-23T02:45:25.000Z</published>
+    <updated>2023-11-24T14:50:07.159Z</updated>
+    
+    
+    <summary type="html">PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation</summary>
+    
+    
+    
+    <category term="技术" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="学习" scheme="http://sptau.github.io/categories/%E6%8A%80%E6%9C%AF/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="点云" scheme="http://sptau.github.io/tags/%E7%82%B9%E4%BA%91/"/>
+    
+    <category term="PointNet" scheme="http://sptau.github.io/tags/PointNet/"/>
+    
+  </entry>
+  
+</feed>
